@@ -17,8 +17,8 @@ RCLONE_REMOTE="passbackup"
 KEEP_DAYS=30
 
 # Telegram
-TG_BOT_TOKEN="8299003585:AAGJSLWShUpglLtQol_uBZdu6O4GggOaLiA"
-TG_CHAT_ID="548957896"
+TG_BOT_TOKEN="这里改成自己的"
+TG_CHAT_ID="这里改成自己的"
 
 # Timestamp
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
