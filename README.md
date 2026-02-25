@@ -18,9 +18,6 @@
 
 ### 1. 上传脚本到服务器
 
-```bash
-scp /Users/dogdi/.gemini/antigravity/scratch/vaultwarden-backup/vaultwarden-backup.sh root@你的服务器IP:/root/
-```
 
 ### 2. 赋予执行权限
 
