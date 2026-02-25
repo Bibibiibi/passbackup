@@ -1,4 +1,4 @@
-# Vaultwarden 备份脚本 — 部署指南
+# Vaultwarden 备份脚本
 
 ## 文件
 
