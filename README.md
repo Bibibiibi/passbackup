@@ -27,6 +27,7 @@ chmod +x /root/vaultwarden-restore.sh
 
 ```bash
 bash /root/vaultwarden-backup.sh
+bash /root/vaultwarden-restore.sh
 ```
 
 检查：
