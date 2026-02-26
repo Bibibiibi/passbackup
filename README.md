@@ -1,8 +1,5 @@
 # Vaultwarden 备份脚本
 
-## 文件
-
-- [vaultwarden-backup.sh](file:///Users/dogdi/.gemini/antigravity/scratch/vaultwarden-backup/vaultwarden-backup.sh) — 主备份脚本
 
 ## 功能
 
@@ -23,6 +20,7 @@
 
 ```bash
 chmod +x /root/vaultwarden-backup.sh
+chmod +x /root/vaultwarden-restore.sh
 ```
 
 ### 3. 手动测试
